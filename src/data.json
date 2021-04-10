@@ -1,0 +1,99 @@
+{
+  "categories": [
+    {
+      "name": "Zwierzęta",
+      "data": [
+        {
+          "name": "Gdyby kózka nie skakała, toby nóżki nie złamała!",
+          "data": "Przysłowie dotyczy sytuacji, gdy ktoś nie zachował należytej ostrożności i poniósł tego konsekwencje."
+        },
+        {
+          "name": "Żyć jak pies z kotem",
+          "data": "Czyli mieć z kimś napiętą sytuację lub żyć w niezgodzie."
+        },
+        {
+          "name": "Człowiek człowiekowi wilkiem.",
+          "data": "Oznacza, że nie zawsze jeden człowiek jest życzliwy i dobry dla innego."
+        },
+        {
+          "name": "Zapomniał wół, jak cielęciem był.",
+          "data": "Pouczanie kogoś młodszego, że jego zachowanie jest nieodpowiednie, mimo że nasze zachowanie w młodości było podobne."
+        },
+        {
+          "name": "Jajko mądrzejsze od kury.",
+          "data": "Dotyczy sytuacji, gdy młodsza osoba chce być mądrzejsza od starszej."
+        },
+        {
+          "name": "Słabe w gosposi nadzieje, gdy śpi, jak kogut pieje.",
+          "data": "Dawniej pianie koguta budziło gospodarzy i oznaczało, że zaczął się nowy dzień. To było dla nich ważne. To przysłowie tłumaczy więc, że trzeba zawsze dostrzegać ważne momenty w życiu i umieć z nich skorzystać."
+        },
+        {
+          "name": "Krowa, która dużo ryczy, mało mleka daje",
+          "data": "Przysłowie poucza nas, że nie zawsze ten, kto dużo mówi, dużo robi. Możemy też powiedzieć tak o kimś, kto lubi się chwalić, a w rzeczywistości jego przechwałki nie mają nic wspólnego z prawdą."
+        }
+      ]
+    },
+    {
+      "name": "Rośliny",
+      "data": [
+        {
+          "name": "Obiecywać gruszki na wierzbie",
+          "data": "Obiecywać coś niemożliwego."
+        },
+        {
+          "name": "Nie ma róży bez kolców",
+          "data": "Nie ma na świecie nic idealnego, każdy ma swoje wady"
+        },
+        {
+          "name": "Życie usłąna różami",
+          "data": "Wieść życiewygodne, bez trosk i kłopotów"
+        },
+        {
+          "name": "Czuć do kogoś miętę.",
+          "data": "Odczuwać do kogoś sympatię."
+        },
+        {
+          "name": "Drżeć jak liść. ",
+          "data": "Trząść się ze strachu, przerażenia, podniecenia"
+        },
+        {
+          "name": "Jak grzyby po deszczu.",
+          "data": "Bardzo szybko, niespodziewanie"
+        },
+        {
+          "name": "Iść, pójść na zieloną trawkę.",
+          "data": "Zostać zwolnionym z pracy, stracić posadę"
+        }
+      ]
+    },
+    {
+      "name": "Części Ciała",
+      "data": [
+        {
+          "name": "Coś komuś chodzi po głowie",
+          "data": "Ciągle myśli o tym samym"
+        },
+        {
+          "name": "Wstać lewą nogą.",
+          "data": "Być w złym humorze."
+        },
+        {
+          "name": "Coś rozpływa się w ustach",
+          "data": "Coś smacznego."
+        },
+        {
+          "name": "Mieć klapki na oczach. ",
+          "data": "Nie zauważać czegoś ważnego."
+        },
+        {
+          "name": "Dać nogę.",
+          "data": "Uciec przed kimś."
+        },
+        {
+          "name": "Bez zmurżenia oka",
+          "data": "Z całkowitym spokojem."
+        }
+      ]
+    }
+  ]
+}
