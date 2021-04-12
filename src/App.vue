@@ -1,6 +1,9 @@
 <template>
   <div id="app">
     <router-view />
+    <footer>
+      <p>Autor: Tomek Pulkiewicz</p>
+    </footer>
   </div>
 </template>
 
@@ -19,5 +22,13 @@ $primary: #9b59b6;
   margin: auto;
   margin-top: 8rem;
   font-family: "Raleway", sans-serif;
+}
+footer {
+  position: fixed;
+  width: 100vw;
+  bottom: 0;
+  left: 0;
+  font-size: 18px;
+  padding: 10px 15px;
 }
 </style>
